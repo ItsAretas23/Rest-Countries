@@ -1,0 +1,17 @@
+.search-input {
+  width: 100%;
+}
+
+.dropdown1 :hover {
+  cursor: pointer;
+}
+
+@media (width > 768px) {
+  .search-input {
+    width: 50%;
+  }
+
+  .droopdown1 {
+    width: 25%;
+  }
+}
